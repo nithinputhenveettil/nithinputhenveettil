@@ -5,6 +5,9 @@ I am a passionate Backend Engineer with over 8 years of experience in the IT ind
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithinputhenveettil) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@nithinputhenveettil) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2632736) 
 
+# ✍🏽 Latest Blogs:
+- [Instrumenting Couchbase Go SDK on a Go application with Instagocb](https://medium.com/ibm-cloud/instrumenting-couchbase-go-sdk-on-a-go-application-with-instagocb-231e033cd351)
+
 # 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 # 📊 GitHub Stats:
